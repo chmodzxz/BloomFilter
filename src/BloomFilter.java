@@ -13,5 +13,7 @@ public class BloomFilter {
 
     public boolean exists(Object key){
 
+
+        return true;
     }
 }
